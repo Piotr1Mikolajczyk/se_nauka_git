@@ -1,3 +1,3 @@
 Test file
-Second line
+Druga linia
 Trzecia linia
