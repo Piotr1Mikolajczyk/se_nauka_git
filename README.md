@@ -1,3 +1,5 @@
 ###Narzedzia do automatyzacji
 
-#git
+-git
+-docker
+-kubernetes
