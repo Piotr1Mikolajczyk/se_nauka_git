@@ -1,0 +1,3 @@
+###Narzedzia do automatyzacji
+
+#git
